@@ -2,6 +2,10 @@
 
 I'm **Lucien**, a 💻 **Junior Full-Stack Web Developer**, I’m passionate about **open source**, **clean code**, and **continuous learning**.  
 I love building modern web apps and turning ideas into digital experiences.
+
+- [Portfolio](https://codeurluce.github.io/Portfilio-lucien/)
+- [LinkedIn](https://www.linkedin.com/in/lucien-ouoba-95a954214)
+
 ##
 
 ### My Skills
@@ -16,12 +20,14 @@ I love building modern web apps and turning ideas into digital experiences.
   <img src="https://skillicons.dev/icons?i=nextjs,vuejs,docker,aws,flutter" />
 </p>
 
----
 
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeurluce&show_icons=true&theme=tokyonight" alt="Lucien's GitHub stats" />
-</p>
+<details>
+  <summary> My GitHub Stats!</summary>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=codeurluce&show_icons=true&theme=tokyonight" alt="Lucien's GitHub stats" />
+  </p>
+</details>
 
 <!--
 <p align="left">
@@ -31,18 +37,12 @@ I love building modern web apps and turning ideas into digital experiences.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurluce&layout=compact&theme=tokyonight" />
 -->
 
----
+<details>
+  <summary> Visitors</summary>
 
-### Connect With Me
-- 🌐 [Portfolio](https://codeurluce.github.io/Portfilio-lucien/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucien-ouoba-95a954214)
-- ✉️ Reach me on Discord: `@codeurluce`
-
----
-
-### 👀 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=codeurluce&color=blue)
-
----
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=codeurluce&color=blue" alt="Visitor Count" />
+  </p>
+</details>
 
 > Currently working on a private full-stack project (3-month dev phase) — public soon!
