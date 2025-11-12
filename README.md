@@ -1,36 +1,39 @@
-## Hi there 👋
+## Hi 👋
 
 I'm **Lucien**, a 💻 **Junior Full-Stack Web Developer**, I’m passionate about **open source**, **clean code**, and **continuous learning**.  
 I love building modern web apps and turning ideas into digital experiences.
+##
 
----
-
-### 🧠 My Skills
+### My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgresql,html,css,tailwind,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgresql,html,css,tailwind,git" />
+</p>
+
+##
+
+### Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,vuejs,docker,aws,flutter" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,docker,python" />
-</p>
-
----
-
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codeurluce&show_icons=true&theme=tokyonight" alt="Lucien's GitHub stats" />
 </p>
 
+<!--
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeurluce&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurluce&layout=compact&theme=tokyonight" />
+-->
+
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 - 🌐 [Portfolio](https://codeurluce.github.io/Portfilio-lucien/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucien-ouoba-95a954214)
 - ✉️ Reach me on Discord: `@codeurluce`
@@ -42,4 +45,4 @@ I love building modern web apps and turning ideas into digital experiences.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> Currently working on a private full-stack project (3-month dev phase) — public soon!
