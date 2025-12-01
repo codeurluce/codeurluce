@@ -27,7 +27,7 @@ I love building modern web apps and turning ideas into digital experiences.
   <summary> My GitHub Stats!</summary>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=codeurluce&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=codeurluce&show_icons=true&theme=tokyonight" alt="Lucien's GitHub stats" />
   </p>
 </details>
 
