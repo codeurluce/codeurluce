@@ -21,6 +21,8 @@ I love building modern web apps and turning ideas into digital experiences.
 </p>
 
 
+<br/>
+
 <details>
   <summary> My GitHub Stats!</summary>
 
@@ -29,11 +31,13 @@ I love building modern web apps and turning ideas into digital experiences.
   </p>
 </details>
 
+<!--
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeurluce&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurluce&layout=compact&theme=tokyonight" />
+-->
 
 <details>
   <summary> Visitors</summary>
