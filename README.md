@@ -31,6 +31,10 @@ I love building modern web apps and turning ideas into digital experiences.
   </p>
 </details>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=codeurluce&theme=tokyonight)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=codeurluce)
+
 <!--
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeurluce&theme=tokyonight" alt="GitHub Streak" />
