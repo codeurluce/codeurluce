@@ -23,13 +23,13 @@ I love building modern web apps and turning ideas into digital experiences.
 
 <br/>
 
-
+<details>
   <summary> My GitHub Stats!</summary>
 
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=codeurluce&show_icons=true&theme=tokyonight" alt="Lucien's GitHub stats" />
   </p>
-
+</details>
 
 <!--
 <p align="left">
