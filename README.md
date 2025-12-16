@@ -10,7 +10,7 @@ I love building modern web apps and turning ideas into digital experiences.
 
 ### My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgresql,html,css,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,express,postgresql,html,css,tailwind,git" />
 </p>
 
 ##
