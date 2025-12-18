@@ -5,7 +5,7 @@ I love building modern web apps and turning ideas into digital experiences.
 
 - [Portfolio](https://codeurluce.github.io/Portfilio-lucien/)
 - [LinkedIn](https://www.linkedin.com/in/lucien-ouoba-95a954214)
-- [Email][luiz01luciano04@gmail.com](mailto:luiz01luciano04@gmail.com)
+- [Email](mailto:luiz01luciano04@gmail.com)
 - [Open Source Contribution Journal](https://gist.github.com/codeurluce/2f3a43d56e53d3e6a773e940599a7db0)
 
 ##
