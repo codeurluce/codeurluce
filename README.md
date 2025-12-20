@@ -19,7 +19,7 @@ I love building modern web apps and turning ideas into digital experiences.
 
 ### Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,vuejs,docker,aws,flutter" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,flutter,nextjs,vuejs" />
 </p>
 
 
