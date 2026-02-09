@@ -12,14 +12,14 @@ I love building modern web apps and turning ideas into digital experiences.
 
 ### My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,express,postgresql,html,css,tailwind,git,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,express,postgresql,tailwind,git,linux" />
 </p>
 
 ##
 
 ### Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,flutter,nextjs,vuejs" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,flutter,django,nextjs,vuejs" />
 </p>
 
 
