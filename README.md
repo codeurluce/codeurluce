@@ -3,6 +3,21 @@
 I'm **Lucien**, a 💻 **Junior Full-Stack Web Developer**, I’m passionate about **open source**, **clean code**, and **continuous learning**.  
 I love building modern web apps and turning ideas into digital experiences.
 
+### 🌍 Open Source & Localization Contributions
+
+- 📚 **Kubernetes (French Documentation)**  
+  → [Merged PRs](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Acodeurluce+is%3Amerged)
+- 💬 **Zulip (French Translation & Accessibility)**  
+  → [Weblate Profile](https://translate.zulip.org/user/codeurluce/)
+- 🌐 **Wikimedia / MediaWiki (French Interface)**  
+  → [TranslateWiki.net Profile](https://translatewiki.net/wiki/User:codeurluce)
+- 🖥️ **GNOME (French Localization)**  
+  → [GNOME Damned Lies Profile](https://l10n.gnome.org/translator/codeurluce/)
+- 🔒 **OpenSSF / Allstar (French Docs)**  
+  → [Contribution](https://github.com/ossf/allstar/pull/770)
+
+  ### 🔗 Links
+
 - [Portfolio](https://codeurluce.github.io/Portfilio-lucien/)
 - [LinkedIn](https://www.linkedin.com/in/lucien-ouoba-95a954214)
 - [Email](mailto:luiz01luciano04@gmail.com)
