@@ -3,10 +3,9 @@
 I'm **Lucien**, a 💻 **Junior Full-Stack Web Developer**, I’m passionate about **open source**, **clean code**, and **continuous learning**.  
 I love building modern web apps and turning ideas into digital experiences.
 
-### 🌍 Open Source & Localization Contributions
+### 🌍 Open Source Contributions
 
-- 📚 **Kubernetes (French Documentation)**  
-  → [Merged PRs](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) [Contributor](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)
 - 💬 **Zulip (French Translation & Accessibility)**  
   → [Weblate Profile](https://hosted.weblate.org/user/codeurluce)
 - 🌐 **Wikimedia / MediaWiki (French Interface)**  
@@ -17,6 +16,29 @@ I love building modern web apps and turning ideas into digital experiences.
   → [GNOME Damned Lies Profile](https://l10n.gnome.org/users/codeurluce/)
 - 🔒 **OpenSSF / Allstar (French Docs)**  
   → [Contribution](https://github.com/ossf/allstar/pull/770)
+
+
+  ### 🌍 Open Source Contributions
+
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)  
+  **Contributor (French Documentation)**  
+  → [6 merged PRs](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)
+
+- ![Zulip](https://img.shields.io/badge/-Zulip-0078D4?logo=zulip&logoColor=white)  
+  **Contributor (French Localization)**  
+  → [Weblate Profile](https://hosted.weblate.org/user/codeurluce/)
+
+- ![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?logo=gnome&logoColor=white)  
+  **Contributor (French UI)**  
+  → [Damned Lies Profile](https://l10n.gnome.org/users/codeurluce/)
+
+- ![Wikimedia](https://img.shields.io/badge/-Wikimedia-000000?logo=wikimedia&logoColor=white)  
+  **Contributor (French Interface)**  
+  → [TranslateWiki.net](https://translatewiki.net/wiki/Special:Contributions/Codeurluce)
+
+- ![OpenSSF](https://img.shields.io/badge/-OpenSSF-005F9E?logo=linuxfoundation&logoColor=white)  
+  **Contributor (French Docs)**  
+  → [PR #770](https://github.com/ossf/allstar/pull/770)
 
   ### 🔗 Links
 
