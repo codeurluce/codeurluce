@@ -14,7 +14,7 @@ I love building modern web apps and turning ideas into digital experiences.
 - 🌐 **TranslateWiki.net**  
   → [TranslateWiki.net Profile](https://translatewiki.net/w/i.php?title=Special:Contributions/Codeurluce&target=Codeurluce&offset=&limit=500)
 - 🖥️ **GNOME (French Localization)**  
-  → [GNOME Damned Lies Profile](https://l10n.gnome.org/translator/codeurluce/)
+  → [GNOME Damned Lies Profile](https://l10n.gnome.org/users/codeurluce/)
 - 🔒 **OpenSSF / Allstar (French Docs)**  
   → [Contribution](https://github.com/ossf/allstar/pull/770)
 
