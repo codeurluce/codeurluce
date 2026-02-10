@@ -6,7 +6,7 @@ I love building modern web apps and turning ideas into digital experiences.
 ### 🌍 Open Source & Localization Contributions
 
 - 📚 **Kubernetes (French Documentation)**  
-  → [Merged PRs](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Acodeurluce+is%3Amerged)
+  → [Merged PRs](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)
 - 💬 **Zulip (French Translation & Accessibility)**  
   → [Weblate Profile](https://translate.zulip.org/user/codeurluce/)
 - 🌐 **Wikimedia / MediaWiki (French Interface)**  
