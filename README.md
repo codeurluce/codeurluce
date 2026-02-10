@@ -8,7 +8,7 @@ I love building modern web apps and turning ideas into digital experiences.
 - 📚 **Kubernetes (French Documentation)**  
   → [Merged PRs](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)
 - 💬 **Zulip (French Translation & Accessibility)**  
-  → [Weblate Profile](https://translate.zulip.org/user/codeurluce/)
+  → [Weblate Profile](https://hosted.weblate.org/user/codeurluce)
 - 🌐 **Wikimedia / MediaWiki (French Interface)**  
   → [TranslateWiki.net Profile](https://translatewiki.net/wiki/User:codeurluce)
 - 🖥️ **GNOME (French Localization)**  
