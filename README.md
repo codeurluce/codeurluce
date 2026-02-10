@@ -10,7 +10,7 @@ I love building modern web apps and turning ideas into digital experiences.
 - 💬 **Zulip (French Translation & Accessibility)**  
   → [Weblate Profile](https://hosted.weblate.org/user/codeurluce)
 - 🌐 **Wikimedia / MediaWiki (French Interface)**  
-  → [TranslateWiki.net Profile](https://translatewiki.net/wiki/User:codeurluce)
+  → [](https://gerrit.wikimedia.org/r/q/owner:codeurluce?spm=a2ty_o01.29997173.0.0.78465171SmIJ4Z)
 - 🌐 **TranslateWiki.net**  
   → [TranslateWiki.net Profile](https://translatewiki.net/w/i.php?title=Special:Contributions/Codeurluce&target=Codeurluce&offset=&limit=500)
 - 🖥️ **GNOME (French Localization)**  
