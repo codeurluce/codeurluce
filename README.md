@@ -3,51 +3,24 @@
 I'm **Lucien**, a 💻 **Junior Full-Stack Web Developer**, I’m passionate about **open source**, **clean code**, and **continuous learning**.  
 I love building modern web apps and turning ideas into digital experiences.
 
-### 🌍 Open Source Contributions
+### Open Source Contributions
 
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) [Contributor](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)
-- 💬 **Zulip (French Translation & Accessibility)**  
-  → [Weblate Profile](https://hosted.weblate.org/user/codeurluce)
-- 🌐 **Wikimedia / MediaWiki (French Interface)**  
-  → [Guerrit Wikimedia code review](https://gerrit.wikimedia.org/r/q/owner:codeurluce?spm=a2ty_o01.29997173.0.0.78465171SmIJ4Z)
-- 🌐 **TranslateWiki.net**  
-  → [TranslateWiki.net Profile](https://translatewiki.net/w/i.php?title=Special:Contributions/Codeurluce&target=Codeurluce&offset=&limit=500)
-- 🖥️ **GNOME (French Localization)**  
-  → [GNOME Damned Lies Profile](https://l10n.gnome.org/users/codeurluce/)
-- 🔒 **OpenSSF / Allstar (French Docs)**  
-  → [Contribution](https://github.com/ossf/allstar/pull/770)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) **Documentation Contributor (French Localization) : [View contributions](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)**
+- ![Zulip](https://img.shields.io/badge/-Zulip-0078D4?logo=zulip&logoColor=white) **French Translator & Accessibility Advocate : [Weblate Profil](https://hosted.weblate.org/user/codeurluce)**
+- ![Wikimedia](https://img.shields.io/badge/-Wikimedia-000000?logo=wikimedia&logoColor=white) **MediaWiki Interface Translator via : [TranslateWiki](https://translatewiki.net/w/i.php?title=Special:Contributions/Codeurluce&target=Codeurluce&offset=&limit=500)**
+- ![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?logo=gnome&logoColor=white) **French UI Localization Reviewe : [GNOME Damned Lies Profile](https://l10n.gnome.org/users/codeurluce/)**
+<!--
+![Wikimedia](https://img.shields.io/badge/-Wikimedia-000000?logo=wikimedia&logoColor=white) **Code Review Contributor (Gerrit / Wikimedia) : [Patches and reviews on Gerrit](https://gerrit.wikimedia.org/r/q/owner:codeurluce?spm=a2ty_o01.29997173.0.0.78465171SmIJ4Z)**
+-->
 
-
-  ### 🌍 Open Source Contributions
-
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)  
-  **Contributor (French Documentation)**  
-  → [6 merged PRs](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)
-
-- ![Zulip](https://img.shields.io/badge/-Zulip-0078D4?logo=zulip&logoColor=white)  
-  **Contributor (French Localization)**  
-  → [Weblate Profile](https://hosted.weblate.org/user/codeurluce/)
-
-- ![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?logo=gnome&logoColor=white)  
-  **Contributor (French UI)**  
-  → [Damned Lies Profile](https://l10n.gnome.org/users/codeurluce/)
-
-- ![Wikimedia](https://img.shields.io/badge/-Wikimedia-000000?logo=wikimedia&logoColor=white)  
-  **Contributor (French Interface)**  
-  → [TranslateWiki.net](https://translatewiki.net/wiki/Special:Contributions/Codeurluce)
-
-- ![OpenSSF](https://img.shields.io/badge/-OpenSSF-005F9E?logo=linuxfoundation&logoColor=white)  
-  **Contributor (French Docs)**  
-  → [PR #770](https://github.com/ossf/allstar/pull/770)
-
-  ### 🔗 Links
+### Links
 
 - [Portfolio](https://codeurluce.github.io/Portfilio-lucien/)
 - [LinkedIn](https://www.linkedin.com/in/lucien-ouoba-95a954214)
 - [Email](mailto:luiz01luciano04@gmail.com)
+<!--
 - [Open Source Contribution Journal](https://gist.github.com/codeurluce/2f3a43d56e53d3e6a773e940599a7db0)
-
-##
+-->
 
 ### My Skills
 <p align="left">
@@ -78,7 +51,7 @@ I love building modern web apps and turning ideas into digital experiences.
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurluce&layout=compact&theme=tokyonight" />
---!>
+-->
 
 <details>
   <summary> Visitors</summary>
@@ -87,5 +60,3 @@ I love building modern web apps and turning ideas into digital experiences.
     <img src="https://komarev.com/ghpvc/?username=codeurluce&color=blue" alt="Visitor Count" />
   </p>
 </details>
-
-> Currently working on a private full-stack project (3-month dev phase) — public soon!
