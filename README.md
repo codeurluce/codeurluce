@@ -24,7 +24,7 @@ I love building modern web apps and turning ideas into digital experiences.
 
 ### My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,express,postgresql,tailwind,git,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,express,postgresql,git,linux" />
 </p>
 
 ##
