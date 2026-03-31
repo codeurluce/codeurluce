@@ -6,8 +6,10 @@ I love building modern web apps and turning ideas into digital experiences.
 ### Open Source Contributions
 
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) **Documentation Contributor (French Localization) : [View contributions](https://github.com/search?q=org%3Akubernetes+author%3Acodeurluce&type=pullrequests)**
+<!--
 - ![Zulip](https://img.shields.io/badge/-Zulip-0078D4?logo=zulip&logoColor=white) **French Translator & Accessibility Advocate : [Weblate Profil](https://hosted.weblate.org/user/codeurluce)**
 - ![Wikimedia](https://img.shields.io/badge/-Wikimedia-000000?logo=wikimedia&logoColor=white) **MediaWiki Interface Translator via : [TranslateWiki](https://translatewiki.net/w/i.php?title=Special:Contributions/Codeurluce&target=Codeurluce&offset=&limit=500)**
+-->
 - ![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?logo=gnome&logoColor=white) **French UI Localization Reviewe : [GNOME Damned Lies Profile](https://l10n.gnome.org/users/codeurluce/)**
 <!--
 ![Wikimedia](https://img.shields.io/badge/-Wikimedia-000000?logo=wikimedia&logoColor=white) **Code Review Contributor (Gerrit / Wikimedia) : [Patches and reviews on Gerrit](https://gerrit.wikimedia.org/r/q/owner:codeurluce?spm=a2ty_o01.29997173.0.0.78465171SmIJ4Z)**
