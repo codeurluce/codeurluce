@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm **Lucien**, a 💻 Junior Full-Stack Web Developer, I’m passionate about open source, clean code, and continuous learning.  
+I'm **Lucien**, a 💻 Full-Stack Developer, I’m passionate about open source, clean code, and continuous learning.  
 I love building modern web apps and turning ideas into digital experiences.
 
 ### Open Source Contributions
