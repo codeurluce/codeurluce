@@ -1,7 +1,8 @@
 ## Hi 👋
 
-I'm **Lucien**, 💻 a Full-Stack Developer, I’m passionate about open source, clean code, and continuous learning.  
-I love building modern web apps and turning ideas into digital experiences.
+I'm Lucien, 💻 a **Software Engineer** passionate about developer tooling, open source, and cloud-native technologies.
+
+I enjoy building modern applications, operational dashboards, and tools that improve developer and user workflows. I'm also interested in technical writing and contributing to open source projects while continuously learning and exploring new technologies.
 
 ### Open Source Contributions
 
