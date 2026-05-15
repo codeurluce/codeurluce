@@ -27,12 +27,12 @@ I enjoy building modern applications, operational dashboards, and tools that imp
 
 ### My Skills
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,javascript,python,go,express,postgresql,git,linux,docker" /> 
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,javascript,python,express,postgresql,git,linux,docker" /> 
 </p>
 
 ### Currently Learning
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=kubernetes" /> 
+  <img src="https://skillicons.dev/icons?i=kubernetes,go" /> 
 </p>
 
 <br/>
