@@ -32,7 +32,7 @@ I enjoy building modern applications, operational dashboards, and tools that imp
 
 ### Currently Learning
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws" /> 
+  <img src="https://skillicons.dev/icons?i=kubernetes" /> 
 </p>
 
 <br/>
