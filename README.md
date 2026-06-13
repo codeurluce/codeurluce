@@ -1,4 +1,10 @@
-## Hi 👋
+# Hi 👋
+
+<!-- <div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5&color=FF9900&width=800&lines=👨‍💻+Software+Engineer+|+🛠️+Developer+Tooling;☸️+Cloud+Native+%26+DevOps+Enthusiast;✍️+Technical+Writer+|+🌍+Open+Source+Contributor" alt="Typing SVG" />
+
+</div> -->
 
 I'm Lucien, 💻 a **Software Engineer** passionate about developer tooling, open source, and cloud-native technologies.
 
