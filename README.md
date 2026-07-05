@@ -6,7 +6,7 @@
 
 </div> -->
 
-I'm Lucien, 💻 a **Software Engineer** passionate about developer tooling, open source, and cloud-native technologies.
+I'm Lucien, 💻 a **Full-stack Developer** passionate about developer tooling, open source, and cloud-native technologies.
 
 I enjoy building modern applications, operational dashboards, and tools that improve developer and user workflows. I'm also interested in technical writing and contributing to open source projects while continuously learning and exploring new technologies.
 <!--
